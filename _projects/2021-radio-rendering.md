@@ -6,7 +6,7 @@ technologies: [Autodesk Inventor]
 image: /assets/images/Screenshot 2025-05-13 at 19.15.45.png
 ---
 
-
+<img src="assets/images/Screenshot 2025-05-13 at 19.15.45.png" alt="My Image" width="500">
 
 Goals: Making sure all the boards are accessible (easy to plug in and pull out), don't move around when the rover moves, protects all the cables, and prevents dust from coming in. The entire ecore should also be easy to pull out and adjust and it should be well protected in the frame. 
 
